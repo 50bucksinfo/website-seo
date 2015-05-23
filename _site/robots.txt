@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /signin
+Disallow: /logon.html
+Disallow: /web-design/logon.html
+Disallow: /logon.html
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /cheapestwebsitesmelbourne.50bucks.info/servlet/cheapestwebsitesmelbourne?action=privacy 
